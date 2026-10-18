@@ -1,0 +1,198 @@
+qid,country,people_with_photo
+Q142,France,84782.0
+Q183,Germany,72177.0
+Q145,United Kingdom,47804.0
+Q29,Spain,46119.0
+Q38,Italy,38598.0
+Q34,Sweden,34400.0
+Q17,Japan,34350.0
+Q29999,Kingdom of the Netherlands,32790.0
+Q36,Poland,32126.0
+Q16,Canada,27394.0
+Q159,Russia,26362.0
+Q155,Brazil,21996.0
+Q668,India,20180.0
+Q801,Israel,18870.0
+Q408,Australia,18710.0
+Q28,Hungary,17578.0
+Q20,Norway,17411.0
+Q414,Argentina,15229.0
+Q40,Austria,14632.0
+Q39,Switzerland,14519.0
+Q33,Finland,13671.0
+Q31,Belgium,13476.0
+Q212,Ukraine,12985.0
+Q756617,Kingdom of Denmark,12111.0
+Q664,New Zealand,10820.0
+Q213,Czech Republic,9173.0
+Q96,Mexico,8648.0
+Q252,Indonesia,8494.0
+Q218,Romania,8325.0
+Q884,South Korea,8224.0
+Q43,Turkey,8153.0
+Q794,Iran,7700.0
+Q148,People's Republic of China,7440.0
+Q298,Chile,6514.0
+Q219,Bulgaria,6169.0
+Q45,Portugal,5981.0
+Q191,Estonia,5813.0
+Q41,Greece,5157.0
+Q215,Slovenia,4978.0
+Q27,Ireland,4456.0
+Q865,Taiwan,4336.0
+Q739,Colombia,3950.0
+Q403,Serbia,3830.0
+Q258,South Africa,3754.0
+Q869,Thailand,3425.0
+Q419,Peru,3350.0
+Q1033,Nigeria,3271.0
+Q928,Philippines,3161.0
+Q77,Uruguay,2725.0
+Q717,Venezuela,2657.0
+Q37,Lithuania,2490.0
+Q79,Egypt,2449.0
+Q184,Belarus,2344.0
+Q224,Croatia,2272.0
+Q843,Pakistan,2172.0
+Q214,Slovakia,2169.0
+Q211,Latvia,2147.0
+Q227,Azerbaijan,2121.0
+Q736,Ecuador,1968.0
+Q241,Cuba,1930.0
+Q1028,Morocco,1865.0
+Q902,Bangladesh,1856.0
+Q881,Vietnam,1847.0
+Q399,Armenia,1813.0
+Q833,Malaysia,1508.0
+Q948,Tunisia,1494.0
+Q117,Ghana,1467.0
+Q262,Algeria,1419.0
+Q230,Georgia,1357.0
+Q786,Dominican Republic,1298.0
+Q232,Kazakhstan,1283.0
+Q32,Luxembourg,1276.0
+Q822,Lebanon,1253.0
+Q222,Albania,1223.0
+Q189,Iceland,1174.0
+Q1036,Uganda,1146.0
+Q1009,Cameroon,1095.0
+Q114,Kenya,1035.0
+Q796,Iraq,1034.0
+Q750,Bolivia,1014.0
+Q265,Uzbekistan,991.0
+Q1008,Ivory Coast,981.0
+Q217,Moldova,965.0
+Q974,Democratic Republic of the Congo,950.0
+Q225,Bosnia and Herzegovina,930.0
+Q1041,Senegal,882.0
+Q858,Syria,875.0
+Q221,North Macedonia,850.0
+Q851,Saudi Arabia,847.0
+Q800,Costa Rica,842.0
+Q766,Jamaica,785.0
+Q837,Nepal,735.0
+Q733,Paraguay,708.0
+Q334,Singapore,670.0
+Q854,Sri Lanka,667.0
+Q790,Haiti,596.0
+Q219060,Palestine,596.0
+Q774,Guatemala,586.0
+Q115,Ethiopia,585.0
+Q889,Afghanistan,574.0
+Q1006,Guinea,555.0
+Q730,Suriname,548.0
+Q810,Jordan,505.0
+Q836,Myanmar,494.0
+Q236,Montenegro,479.0
+Q792,El Salvador,465.0
+Q233,Malta,465.0
+Q912,Mali,457.0
+Q574,Timor-Leste,440.0
+Q1045,Somalia,376.0
+Q229,Cyprus,374.0
+Q711,Mongolia,372.0
+Q965,Burkina Faso,366.0
+Q754,Trinidad and Tobago,359.0
+Q954,Zimbabwe,348.0
+Q813,Kyrgyzstan,335.0
+Q971,Republic of the Congo,332.0
+Q811,Nicaragua,330.0
+Q783,Honduras,324.0
+Q916,Angola,316.0
+Q924,Tanzania,308.0
+Q1020,Malawi,296.0
+Q712,Fiji,296.0
+Q1049,Sudan,289.0
+Q945,Togo,285.0
+Q878,United Arab Emirates,283.0
+Q1037,Rwanda,272.0
+Q1246,Kosovo,254.0
+Q846,Qatar,252.0
+Q423,North Korea,251.0
+Q347,Liechtenstein,245.0
+Q805,Yemen,230.0
+Q1019,Madagascar,225.0
+Q1030,Namibia,217.0
+Q398,Bahrain,215.0
+Q817,Kuwait,212.0
+Q424,Cambodia,206.0
+Q863,Tajikistan,206.0
+Q953,Zambia,197.0
+Q1016,Libya,189.0
+Q678,Tonga,170.0
+Q1005,The Gambia,166.0
+Q657,Chad,166.0
+Q1011,Cape Verde,164.0
+Q1000,Gabon,164.0
+Q1014,Liberia,161.0
+Q1029,Mozambique,153.0
+Q1027,Mauritius,152.0
+Q228,Andorra,147.0
+Q1032,Niger,144.0
+Q1044,Sierra Leone,144.0
+Q734,Guyana,139.0
+Q244,Barbados,139.0
+Q963,Botswana,138.0
+Q826,Maldives,135.0
+Q967,Burundi,124.0
+Q958,South Sudan,122.0
+Q691,Papua New Guinea,120.0
+Q929,Central African Republic,119.0
+Q921,Brunei,118.0
+Q683,Samoa,116.0
+Q986,Eritrea,112.0
+Q242,Belize,105.0
+Q235,Monaco,105.0
+Q983,Equatorial Guinea,104.0
+Q778,The Bahamas,100.0
+Q874,Turkmenistan,97.0
+Q1007,Guinea-Bissau,88.0
+Q819,Laos,88.0
+Q1025,Mauritania,85.0
+Q842,Oman,84.0
+Q1042,Seychelles,83.0
+Q238,San Marino,81.0
+Q672,Tuvalu,81.0
+Q917,Bhutan,73.0
+Q970,Comoros,66.0
+Q760,Saint Lucia,61.0
+Q781,Antigua and Barbuda,55.0
+Q769,Grenada,53.0
+Q977,Djibouti,49.0
+Q763,Saint Kitts and Nevis,47.0
+Q1039,São Tomé and Príncipe,47.0
+Q685,Solomon Islands,45.0
+Q686,Vanuatu,43.0
+Q702,Federated States of Micronesia,41.0
+Q757,Saint Vincent and the Grenadines,40.0
+Q1013,Lesotho,38.0
+Q709,Marshall Islands,38.0
+Q697,Nauru,38.0
+Q1050,Eswatini,31.0
+Q695,Palau,31.0
+Q237,Vatican City,28.0
+Q710,Kiribati,20.0
+Q784,Dominica,
+Q804,Panama,
+Q962,Benin,
+Q30,United States,
