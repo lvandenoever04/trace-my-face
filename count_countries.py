@@ -1,11 +1,12 @@
 import time
 import requests 
 import pandas as pd
+import os
 
 ENDPOINT = "https://query.wikidata.org/sparql"
 
 HEADERS = {
-    "User-Agent": "face-origin-learning-project/0.1 (lvandenoever04@gmail.com)",
+    "User-Agent": f"face-origin-learning-project/0.1 ({os.environ['WIKIDATA_CONTACT']}",
     "Accept": "application/sparql-results+json",
 }
 

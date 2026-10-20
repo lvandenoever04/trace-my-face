@@ -68,7 +68,7 @@ def main():
         else:
             failed.append(person)
 
-        if i % 1000 == 0:
+        if i % 100 == 0:
             print(f"{i}/{len(people)}  downloaded {downloaded}, skipped {skipped}, failed {len(failed)}")
 
         time.sleep(DELAY)
