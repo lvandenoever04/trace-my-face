@@ -4,9 +4,11 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, balanced_accuracy_score, top_k_accuracy_score
 from embed_faces import EMBEDDINGS_FILE
+import joblib
 
 TEST_SIZE = 0.2
 RANDOM_SEED = 21
+MODEL_SAVE = "models/country_classifier.joblib"
 
 def main():
     data = np.load(EMBEDDINGS_FILE)
@@ -52,6 +54,9 @@ def main():
     probabilities = model.predict_proba(X_test)
     top5 = top_k_accuracy_score(y_test, probabilities, k=5, labels=model.classes_)
     print(f"Top 5 accuracy: {top5:.1%}")
+
+    joblib.dump(model, MODEL_SAVE)
+    print("Model saved")
 
 if __name__ == "__main__":
     main()
